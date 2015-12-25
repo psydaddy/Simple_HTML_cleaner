@@ -65,7 +65,7 @@ function TagsWorker($match){
 						$allowed &= false;
 					
 					//javascript: as a value atribute
-					if(preg_match('/^javascript[\s]*:/i', trim($value)) )
+					if(preg_match('/^(javascript|script|about|applet|activex|chrome)[\s]*:/i', trim($value)) )
 						$allowed &= false;
 					
 					if($allowed)

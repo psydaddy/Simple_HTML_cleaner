@@ -5,7 +5,7 @@
  |                                                                       |
  | Free to use, sell and change                                          |
  +-----------------------------------------------------------------------+
- | Author: Pedro Miguel Dias Ferreira <roundcube@gmail.com>              |
+ | Author: Pedro Miguel Dias Ferreira                                    |
  +-----------------------------------------------------------------------+
 */
 
